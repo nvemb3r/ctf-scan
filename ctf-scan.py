@@ -1,6 +1,5 @@
 ##########################################
 # ctf-scan.py by Zack Nelson (@nvemb3r)  #
-# Published under an open source license #
 ##########################################
 
 import socket
